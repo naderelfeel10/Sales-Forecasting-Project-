@@ -45,12 +45,6 @@ It demonstrates a complete **data science workflow** — from cleaning to modeli
 
 ---
 
-###  Results
-| Metric | Value |
-|--------|--------|
-| RMSE | *≈ your_value_here* |
-| MAE | *≈ your_value_here* |
-| R² Score | *≈ your_value_here* |
 
 Visualizations show that sales spikes align with holidays (e.g., Black Friday, New Year).
 
